@@ -1,5 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
-
+# 👋 ¡Hola! Soy Rodrigo Inti Andia Palomino
 🎓 Estudiante de Ingeniería de Sistemas  
 💻 Programador junior con interés en el desarrollo de software y la resolución de problemas con código.  
 🔍 Apasionado por el aprendizaje continuo, los algoritmos y la eficiencia.
