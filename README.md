@@ -21,7 +21,7 @@
 
 ## 📫 Contacto
 
-- Email: [tu-correo@ejemplo.com]
+- Email: [023100172b@gmail.com.com]
 - LinkedIn: 
 
 ---
